@@ -1,4 +1,4 @@
-# java8_challenges
+# Java8_challenges
 
 Coding question :
 Class 1 ( 3 minutes )
